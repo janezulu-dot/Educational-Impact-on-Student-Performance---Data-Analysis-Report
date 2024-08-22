@@ -12,8 +12,7 @@ This repository contains the analysis of a Kaggle dataset on high school student
 
 ## Files
 - `Data_Analysis_Report.docx`: Detailed analysis and findings.
-- `Visualizations/`: Charts and graphs from the analysis.
-- `Scripts/`: (If applicable) Code used for data processing and analysis.
+- `Scripts/`: Code used for data processing and analysis.
 
 ## How to Use
-Review the `Data_Analysis_Report.docx` for detailed insights and refer to the `Visualizations/` folder for graphical representations of the data. Scripts are provided for reproducibility of the analysis.
+Review the `Data_Analysis_Report.docx` for detailed insights. Scripts are provided for reproducibility of the analysis.
